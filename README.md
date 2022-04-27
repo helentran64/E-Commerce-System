@@ -4,6 +4,9 @@ This E-Commerce system allows each registered customer to remove, add, and purch
 their cart. In addition, customers can add their home address to have the items shipped to their house, and they can see each rating of
 the listed products. The system will have data on all the registered customers and products that were ordered and shipped.
 
+
+Functionality:
+
 To see the list of products, enter "prods".
 To add a new customer, enter "newcust" and enter the customer's information.
 To add to cart, enter "addtocart" and enter the product's information.
