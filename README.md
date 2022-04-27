@@ -1,6 +1,6 @@
 # E-Commerce-System
 
-This E-Commerce system replicate's Amazon's website. The system allows each registered customer to remove, add, and purchase the items in
+This E-Commerce system allows each registered customer to remove, add, and purchase the items in
 their cart. In addition, customers can add their home address to have the items shipped to their house, and they can see each rating of
 the listed products. The system will have data on all the registered customers and products that were ordered and shipped.
 
@@ -19,7 +19,7 @@ To see each product's average rating, use the "seerating" action and enter the
 product ID of that specific product.  
 
 To see each product's average from each category with different thresholds, use
-the actions "genrating", "booksrating", or "shoesrating". Enter the threshold (e.g
+the actions "genrating", "booksrating", or "shoesrating". Enter the threshold (e.g.
 enter 4 to see all the products with a rating of 4 or higher).
 
 A rating of zero means it has no rating.
