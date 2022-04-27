@@ -6,7 +6,6 @@ the listed products. The system will have data on all the registered customers a
 
 
 Functionality:
-
 To see the list of products, enter "prods".
 To add a new customer, enter "newcust" and enter the customer's information.
 To add to cart, enter "addtocart" and enter the product's information.
